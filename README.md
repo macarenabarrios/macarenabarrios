@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Macarena Barrios, 
 
-<!--
-**macarenabarrios/macarenabarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A junior developer learning AWS, React, and AI automation 🤖.
 
-Here are some ideas to get you started:
+- 🌍 Based in Río Grande, Tierra del Fuego
+- 🎯 Goal: Create useful solutions with technology.
+- 🛠️ Current stack: React, TypeScript, Python.
+- 🎓 Computer Science student at [UNC-FaMAF](https://www.famaf.unc.edu.ar/), Córdoba, Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,c,py,ts,js,nextjs,aws,linux" />
+</p>
+
+---
+
+### 📫 Let's connect!
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/barrios-macarena)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/macarenabarrios)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:maquibarrios@gmail.com)
+
+---
+
+Thanks for stopping by! 😊
