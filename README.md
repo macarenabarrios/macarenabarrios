@@ -11,7 +11,7 @@ A junior developer learning AWS, React, and AI automation 🤖.
 
 ### ⚙️ Tech Stack
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,c,py,ts,js,nextjs,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=c,py,ts,js,nextjs,aws,linux" />
 </p>
 
 ---
